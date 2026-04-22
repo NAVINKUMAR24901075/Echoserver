@@ -126,7 +126,7 @@ print(f"Received {data!r}")
 
 ### SERVER OUTPUT:
 
-<img width="1919" height="1139" alt="image" src="https://github.com/user-attachments/assets/89a08070-3a2e-4970-a5a1-52fbe7a24c1d" />
+<img width="1919" height="1136" alt="image" src="https://github.com/user-attachments/assets/c39138ad-30ed-4f24-a18b-b2c5aa965386" />
 
 
 ## RESULT:
